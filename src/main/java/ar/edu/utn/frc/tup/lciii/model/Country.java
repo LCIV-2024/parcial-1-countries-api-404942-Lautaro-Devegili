@@ -14,6 +14,7 @@ import java.util.Map;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
+
 public class Country {
     private String name;
     private long population;
